@@ -3,7 +3,7 @@
 The focus of this journal club is data-driven life sciences, and precision medicine and diagnostics in particular. 
 For questions, please contact <amanda.olmin@gu.se>.
 
-The journal club is held via Zoom, on the following link: https://gu-se.zoom.us/j/62266062249?pwd=7qpVnHjYzNDSRbZqNYmtHsZtJf6HA7.1.
+The journal club is held via Zoom, on [this link](https://gu-se.zoom.us/j/62266062249?pwd=7qpVnHjYzNDSRbZqNYmtHsZtJf6HA7.1).
 
 ### Format
 - We meet every *forth* week, tentatively Tuesdays 14-15 (see ''Upcoming sessions'').
@@ -12,9 +12,9 @@ The journal club is held via Zoom, on the following link: https://gu-se.zoom.us/
 - Each session starts with a presentation by the host (around 15 minutes), followed by discussion between all participants.
 
 ### Host instructions
-- Select a paper that you believe to align with the topic of the journal club. If relevant, you can also select 1-2 additional papers which you think could add to the discussion and/or knowledge of the participants (Note: don't expect all participants to have read this paper prior to the session).
+- Select a paper that you believe to align with the topic of the journal club. If relevant, you can also select 1-2 additional papers which you think could add to the discussion and/or knowledge of the participants (Note: don't expect all participants to have read these additional papers prior to the session).
 - Share the paper(s) with the participants at least **1 week** prior to the designated session by sending an e-mail to <amanda.olmin@gu.se>.
-- Prepare a presentation, including: a motivation for why you think that the paper is interesting, an overview of the paper, and possible discussion points.
+- Prepare a presentation, including: a motivation for why you think that the paper is interesting, an overview of the paper, and possible discussion points. Aim for the presentation to be approximately 15 minutes. 
 - Join the session!
 
 ### Upcoming sessions (Spring 2026)
