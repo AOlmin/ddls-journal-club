@@ -7,30 +7,36 @@ The journal club is held via Zoom, on the following link: https://gu-se.zoom.us/
 
 ### Format
 - We meet every *forth* week, tentatively Tuesdays 14-15 (see ''Upcoming sessions'').
-- To start, we will focus each session on one main paper selected by the 'host' of that session, see below for host instructions.
+- To start, we will focus each session on one main paper selected by the 'host' of that session. Host instructions are provided below.
 - All participants are encouraged to **read the main paper** prior to the session.
 - Each session starts with a presentation by the host (around 15 minutes), followed by discussion between all participants.
 
 ### Host instructions
-- Select a paper that you believe to align with the topic of the journal club. If relevant, you can also select 1-2 additional papers which you think could add to the discussion or knowledge of the participants.
-- Share the paper with the participants at least **1 week** prior to the designated session by sending an e-mail to <amanda.olmin@gu.se>.
-- Prepare a presentation, including: a motivation for why you think that the paper is interesting, an overview of the paper, and possible discussion points. 
+- Select a paper that you believe to align with the topic of the journal club. If relevant, you can also select 1-2 additional papers which you think could add to the discussion and/or knowledge of the participants (Note: don't expect all participants to have read this paper prior to the session).
+- Share the paper(s) with the participants at least **1 week** prior to the designated session by sending an e-mail to <amanda.olmin@gu.se>.
+- Prepare a presentation, including: a motivation for why you think that the paper is interesting, an overview of the paper, and possible discussion points.
+- Join the session!
 
 ### Upcoming sessions (Spring 2026)
 
 - **Feb 10, 14-15**
+  
 Topic (host): T.B.A.
 
 - **Mar 10, 14-15**
+  
 Topic (host): T.B.A.
 
 - **Apr 7, 14-15**
+  
 Topic (host): T.B.A.
 
 - **May 5, 14-15**
+  
 Topic (host): T.B.A.
 
 - **June 2, 14-15**
+  
 Topic (host): T.B.A.
 
 
