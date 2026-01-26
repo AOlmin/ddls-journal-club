@@ -1,6 +1,6 @@
 ## DDLS Journal Club 
 
-The focus of this journal club is data-driven life sciences, and precision medicine and diagnostics in particular. 
+The focus of this journal club is data-driven life sciences. 
 For questions, please contact <amanda.olmin@gu.se>.
 
 The journal club is held via Zoom, on [this link](https://gu-se.zoom.us/j/62266062249?pwd=7qpVnHjYzNDSRbZqNYmtHsZtJf6HA7.1).
