@@ -21,7 +21,12 @@ The journal club is held via Zoom, on [this link](https://gu-se.zoom.us/j/622660
 
 - **Feb 10, 14-15**
   
-Topic (host): T.B.A.
+Topic (host): Precision medicine and diagnostics (Amanda Olmin)
+
+Main paper: 
+
+Sikkema, Lisa, et al. "An integrated cell atlas of the lung in health and disease." Nature medicine 29.6 (2023): 1563-1577.
+(Available at: https://www.nature.com/articles/s41591-023-02327-2)
 
 - **Mar 10, 14-15**
   
