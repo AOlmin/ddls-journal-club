@@ -29,7 +29,14 @@ Sikkema, Lisa, et al. "An integrated cell atlas of the lung in health and diseas
 
 - **Mar 10, 14-15**
   
-Topic (host): T.B.A.
+Topic (host): Microbiology and evolution (Gleb Ebert)
+
+Main paper:
+N’Guessan et al. 2025. Refining the resolution of the yeast genotype–phenotype map using single-cell RNA-sequencing. eLife. <https://doi.org/10.7554/eLife.93906>
+
+Additional reading:
+- Review on genotype–phenotype maps: Tautz et al. 2026. Beyond Mendel: a call to revisit the genotype–phenotype map through new experimental paradigms. Genetics. <https://doi.org/10.1093/genetics/iyag024>
+- Author's preceding paper: Nguyen Ba et al. 2022. Barcoded bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast. eLife. <https://doi.org/10.7554/eLife.73983>
 
 - **Apr 7, 14-15**
   
