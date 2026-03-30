@@ -21,10 +21,10 @@ The journal club is held via Zoom, on [this link](https://gu-se.zoom.us/j/622660
 
 - **Feb 10, 14-15**
   
-Topic (host): Precision medicine and diagnostics (Amanda Olmin)
+Topic (host): Precision Medicine and Diagnostics (Amanda Olmin)
 
 Main paper: 
-Sikkema, Lisa, et al. "An integrated cell atlas of the lung in health and disease." Nature medicine 29.6 (2023): 1563-1577.
+Sikkema, L., et al. "An integrated cell atlas of the lung in health and disease." Nature medicine 29.6 (2023): 1563-1577.
 (Available at: https://www.nature.com/articles/s41591-023-02327-2)
 
 - **Mar 10, 14-15**
@@ -33,23 +33,37 @@ Topic (host): Evolution and Biodiversity (Gleb Ebert)
 
 Main paper:
 
-N’Guessan et al. 2025. Refining the resolution of the yeast
-genotype–phenotype map using single-cell RNA-sequencing. eLife.
-https://doi.org/10.7554/eLife.93906
+N’Guessan, A., et al. 2025. "Refining the resolution of the yeast genotype–phenotype map using single-cell RNA-sequencing." eLife 13 (2025): RP93906.
+(Available at: https://doi.org/10.7554/eLife.93906)
 
 Related papers:
 
-Tautz et al. 2026. Beyond Mendel: a call to revisit the
-genotype–phenotype map through new experimental paradigms. Genetics.
-https://doi.org/10.1093/genetics/iyag024 (On the topic of genotype–phenotype maps)
+On the topic of genotype–phenotype maps:
 
-Nguyen Ba et al. 2022. Barcoded bulk QTL mapping reveals highly
-polygenic and epistatic architecture of complex traits in yeast. eLife.
-https://doi.org/10.7554/eLife.73983 (Previous paper of authors')
+Tautz, D., et al. "Beyond Mendel: a call to revisit the genotype–phenotype map through new experimental paradigms." Genetics (2026): iyag024.
+(Available at: https://doi.org/10.1093/genetics/iyag024) 
+
+Previous paper of the authors':
+
+Nguyen Ba, A. N., et al. "Barcoded bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast." eLife 11 (2022): e73983.
+(Available at https://doi.org/10.7554/eLife.73983) 
 
 - **Apr 7, 14-15**
   
-Topic (host): T.B.A.
+Topic (host): (Marina Masliakova)
+
+Main paper: 
+
+Grigoriadis, K., Huebner, A., Bunkum, A. et al. CONIPHER: a computational framework for scalable phylogenetic reconstruction with error correction. Nat Protoc 19, 159–183 (2024).
+https://doi.org/10.1038/s41596-023-00913-9
+
+Some useful info:
+
+The paper is focused only on the methodology with some description of the framework application during the benchmarking stage. In the presentation I will also bring up some findings from a paper where this method was utilized to infer tumor phylogeny:
+Frankell, A.M., Dietzen, M., Al Bakir, M. et al. The evolution of lung cancer and impact of subclonal selection in TRACERx. Nature 616, 525–533 (2023).
+https://doi.org/10.1038/s41586-023-05783-5
+
+The second paper (with Methods and extra materials) is quite long and will not be the main point of the session, but certain parts could be interesting for the discussion. 
 
 - **May 5, 14-15**
   
