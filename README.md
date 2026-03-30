@@ -53,14 +53,14 @@ Topic (host): Evolution and Biodiversity (Marina Masliakova)
 
 Main paper: 
 
-Grigoriadis, K., et al. "CONIPHER: a computational framework for scalable phylogenetic reconstruction with error correction". Nat Protoc 19, 159–183 (2024).
+Grigoriadis, K., et al. "CONIPHER: a computational framework for scalable phylogenetic reconstruction with error correction." Nat Protoc 19, 159–183 (2024).
 https://doi.org/10.1038/s41596-023-00913-9
 
 Related papers:
 
 Same method utilized to infer tumor phylogeny:
 
-Frankell, A.M., et al. "The evolution of lung cancer and impact of subclonal selection in TRACERx". Nature 616, 525–533 (2023).
+Frankell, A.M., et al. "The evolution of lung cancer and impact of subclonal selection in TRACERx." Nature 616, 525–533 (2023).
 https://doi.org/10.1038/s41586-023-05783-5
 
 - **May 5, 14-15**
