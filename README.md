@@ -49,7 +49,7 @@ https://doi.org/10.7554/eLife.73983
 
 - **Apr 7, 14-15**
   
-Topic (host): Evolution and Biodiversity (Marina Masliakova)
+Topic (host): Cell and Molecular Biology (Marina Masliakova)
 
 Main paper: 
 
