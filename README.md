@@ -65,7 +65,11 @@ https://doi.org/10.1038/s41586-023-05783-5
 
 - **May 5, 14-15**
   
-Topic (host): T.B.A.
+Topic (host): Precision Medicine and Diagnostics (Liam Davidsson)
+
+Main paper:
+
+Anwer, Danish, et al. "Cell-Type-Resolved Pseudobulk Classification Across Independent Cohorts Identifies Microglial PTPRG as a Transcriptional Hub in Alzheimer's Disease." bioRxiv (2026): 2026-04.
 
 - **June 2, 14-15**
   
